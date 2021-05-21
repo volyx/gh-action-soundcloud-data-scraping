@@ -2,7 +2,6 @@
 
 const fs = require('fs');
 const path = require('path');
-const randomUser = require('random-user');
 const SoundCloud = require("soundcloud-scraper");
 const client = new SoundCloud.Client();
 
@@ -19,7 +18,6 @@ if (fs.existsSync(pathToData)) {
 
 // scrape data, possibly using prior data
 async function getData() {
-  // const user = await randomUser('simple');
   const userInfo = await client.getUser("javaswag");
   userInfo.invokedAt = now;
   data.push(userInfo);
