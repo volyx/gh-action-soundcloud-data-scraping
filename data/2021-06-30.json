@@ -1,0 +1,140 @@
+[
+  {
+    "urn": 656797185,
+    "username": "javaswag",
+    "name": "javaswag",
+    "verified": false,
+    "createdAt": "2019-06-23T16:51:02.000Z",
+    "avatarURL": "https://i1.sndcdn.com/avatars-hQenmJZyBXHdE1r3-4rqAqg-large.jpg",
+    "profile": "https://soundcloud.com/javaswag",
+    "bannerURL": "https://i1.sndcdn.com/visuals-000656797185-Is0cGo-original.jpg",
+    "followers": 230,
+    "following": 4,
+    "likesCount": 4,
+    "tracksCount": 23,
+    "tracks": [
+      {
+        "title": "#22 - Владимир Озеров - архитектура Ignite, Hazelcast, SQL движок Calcite и своя компания",
+        "url": "https://soundcloud.com/javaswag/e22",
+        "publishedAt": "2021-06-26T19:44:10.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5130000
+      },
+      {
+        "title": "#21 - Фёдор Коротков - CI в облаках, микросервисы на Котлине и магия Cirrus CI",
+        "url": "https://soundcloud.com/javaswag/e21",
+        "publishedAt": "2021-05-27T02:49:29.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 7735000
+      },
+      {
+        "title": "#20 - Дмитрий Константинов - микросервисы, база данных Кассандра и базы в клауде",
+        "url": "https://soundcloud.com/javaswag/e20",
+        "publishedAt": "2021-05-11T05:15:00.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 6294000
+      },
+      {
+        "title": "#19 - Андрей Ребров - работа CTO и кофаундером, Agile-практики и стартапы",
+        "url": "https://soundcloud.com/javaswag/e19",
+        "publishedAt": "2021-04-19T19:35:45.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 6704000
+      },
+      {
+        "title": "#18 - Митя Александров - работа архитектора, проект Helidon, JakartaEE и конференции в тачке",
+        "url": "https://soundcloud.com/javaswag/e18",
+        "publishedAt": "2021-03-09T07:41:49.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 7694000
+      },
+      {
+        "title": "#17 - Роман Кудряшов - GraphQL, Spring vs Micronaut и будущее Rust",
+        "url": "https://soundcloud.com/javaswag/17-roman-kudryashov-graphql-spring-vs-micronaut-i-budushchee-rust",
+        "publishedAt": "2021-02-01T03:50:21.000Z",
+        "author": "javaswag",
+        "duration": 4797000
+      },
+      {
+        "title": "#16 - Андрей Мизуров - GameDev на Java, протоколы Stomp, RSocket и чем хорош Netty",
+        "url": "https://soundcloud.com/javaswag/16-andrey-mizurov-gamedev-na-java-prokoly-stomp-rsocket-i-chem-khorosh-netty",
+        "publishedAt": "2020-12-13T18:23:08.000Z",
+        "author": "javaswag",
+        "duration": 5384000
+      },
+      {
+        "title": "#15 -  Дмитрий Думанский - Запуск стартапа на Kickstarter, Netty и No-Database подход",
+        "url": "https://soundcloud.com/javaswag/15-dmitriy-dumanskiy-kickstarter-netty-no-database-podkhod",
+        "publishedAt": "2020-11-05T10:42:28.000Z",
+        "author": "javaswag",
+        "duration": 7579000
+      },
+      {
+        "title": "#14 -  Сергей Целовальников - JUG.EKB, переезд в Австралию и serce.me",
+        "url": "https://soundcloud.com/javaswag/14-sergey-tselovalnikov-jugekb-pereezd-v-avstraliyu-i-serceme",
+        "publishedAt": "2020-10-14T07:33:42.000Z",
+        "author": "javaswag",
+        "duration": 4756000
+      },
+      {
+        "title": "#13 - Сергей Цыпанов - Производительные строки и Хибернейтный Спринг",
+        "url": "https://soundcloud.com/javaswag/13-sergey-tsypanov-proizvoditelnye-stroki-i-khiberneytny",
+        "publishedAt": "2020-09-05T20:33:58.000Z",
+        "author": "javaswag",
+        "duration": 5453000
+      }
+    ],
+    "likes": [
+      {
+        "title": "#22 - Владимир Озеров - архитектура Ignite, Hazelcast, SQL движок Calcite и своя компания",
+        "url": "https://soundcloud.com/javaswag/e22",
+        "publishedAt": "2021-06-26T19:44:10.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#21 - Фёдор Коротков - CI в облаках, микросервисы на Котлине и магия Cirrus CI",
+        "url": "https://soundcloud.com/javaswag/e21",
+        "publishedAt": "2021-05-27T02:49:29.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#20 - Дмитрий Константинов - микросервисы, база данных Кассандра и базы в клауде",
+        "url": "https://soundcloud.com/javaswag/e20",
+        "publishedAt": "2021-05-11T05:15:00.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#19 - Андрей Ребров - работа CTO и кофаундером, Agile-практики и стартапы",
+        "url": "https://soundcloud.com/javaswag/e19",
+        "publishedAt": "2021-04-19T19:35:45.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      }
+    ],
+    "invokedAt": "2021-06-30T08:27:38.842Z"
+  }
+]
