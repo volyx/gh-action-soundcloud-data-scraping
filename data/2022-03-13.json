@@ -1,0 +1,93 @@
+[
+  {
+    "urn": 656797185,
+    "username": "javaswag",
+    "name": "javaswag",
+    "verified": false,
+    "createdAt": "2019-06-23T16:51:02.000Z",
+    "avatarURL": "https://i1.sndcdn.com/avatars-hQenmJZyBXHdE1r3-4rqAqg-large.jpg",
+    "profile": "https://soundcloud.com/javaswag",
+    "bannerURL": "https://i1.sndcdn.com/visuals-000656797185-Is0cGo-original.jpg",
+    "followers": 258,
+    "following": 4,
+    "likesCount": 4,
+    "tracksCount": 26,
+    "tracks": [
+      {
+        "title": "#25 - Никита Липский - AOT компиляция, Excelsior JET и GraalVM",
+        "url": "https://soundcloud.com/javaswag/e25",
+        "publishedAt": "2022-02-15T17:18:17.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5971000
+      },
+      {
+        "title": "#24 - Иван Углянский - преподавание, разработка JVM  и JUGNsk",
+        "url": "https://soundcloud.com/javaswag/e24",
+        "publishedAt": "2021-11-26T15:23:19.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5794000
+      },
+      {
+        "title": "#23 - Сергей Голицын - в разработку через курсы, Гейм-Дев и GRPC микросервисы",
+        "url": "https://soundcloud.com/javaswag/e23",
+        "publishedAt": "2021-10-17T19:48:57.000Z",
+        "author": "javaswag",
+        "duration": 5548000
+      },
+      {
+        "title": "#22 - Владимир Озеров - архитектура Ignite, Hazelcast, SQL движок Calcite и своя компания",
+        "url": "https://soundcloud.com/javaswag/e22",
+        "publishedAt": "2021-06-26T19:44:10.000Z",
+        "author": "javaswag",
+        "duration": 5130000
+      }
+    ],
+    "likes": [
+      {
+        "title": "#25 - Никита Липский - AOT компиляция, Excelsior JET и GraalVM",
+        "url": "https://soundcloud.com/javaswag/e25",
+        "publishedAt": "2022-02-15T17:18:17.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#24 - Иван Углянский - преподавание, разработка JVM  и JUGNsk",
+        "url": "https://soundcloud.com/javaswag/e24",
+        "publishedAt": "2021-11-26T15:23:19.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#23 - Сергей Голицын - в разработку через курсы, Гейм-Дев и GRPC микросервисы",
+        "url": "https://soundcloud.com/javaswag/e23",
+        "publishedAt": "2021-10-17T19:48:57.000Z",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#22 - Владимир Озеров - архитектура Ignite, Hazelcast, SQL движок Calcite и своя компания",
+        "url": "https://soundcloud.com/javaswag/e22",
+        "publishedAt": "2021-06-26T19:44:10.000Z",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      }
+    ],
+    "invokedAt": "2022-03-13T08:06:15.590Z"
+  }
+]
