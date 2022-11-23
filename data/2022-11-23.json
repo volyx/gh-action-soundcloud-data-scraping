@@ -1,0 +1,129 @@
+[
+  {
+    "urn": 656797185,
+    "username": "javaswag",
+    "name": "javaswag",
+    "verified": false,
+    "createdAt": "2019-06-23T16:51:02.000Z",
+    "avatarURL": "https://i1.sndcdn.com/avatars-hQenmJZyBXHdE1r3-4rqAqg-large.jpg",
+    "profile": "https://soundcloud.com/javaswag",
+    "bannerURL": "https://i1.sndcdn.com/visuals-000656797185-Is0cGo-original.jpg",
+    "followers": 309,
+    "following": 4,
+    "likesCount": 4,
+    "tracksCount": 37,
+    "tracks": [
+      {
+        "title": "#36 - Владимир Иванов - мобильная архитектура, развитие в архитектора/стафф инженера",
+        "url": "https://soundcloud.com/javaswag/e36",
+        "publishedAt": "2022-11-05T11:13:33.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5666000
+      },
+      {
+        "title": "#35 - Алексей Рагозин - золотой век распределенных кэшей и профилировщики",
+        "url": "https://soundcloud.com/javaswag/e35",
+        "publishedAt": "2022-10-23T14:15:17.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 6604000
+      },
+      {
+        "title": "#34 - Андрей Сундуков - из PHP в Java, чистый код и собеседования",
+        "url": "https://soundcloud.com/javaswag/e34",
+        "publishedAt": "2022-10-08T13:09:16.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5666000
+      },
+      {
+        "title": "#33 - Алексей Генус - архитектура нео-банка и время",
+        "url": "https://soundcloud.com/javaswag/e33",
+        "publishedAt": "2022-09-03T13:40:30.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 8168000
+      },
+      {
+        "title": "#32 - Александр Ланцов - алготрейдинг, кванты и почему Java",
+        "url": "https://soundcloud.com/javaswag/e32",
+        "publishedAt": "2022-08-27T15:41:14.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5535000
+      },
+      {
+        "title": "#31 - Антон Батяев - многоликий финтех, MBA и переход в продукт оунера",
+        "url": "https://soundcloud.com/javaswag/e31",
+        "publishedAt": "2022-08-03T16:12:43.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 6186000
+      },
+      {
+        "title": "#30 - Владимир Плизга - Side Effect Injection, 10 лет техлида и интернет вещей",
+        "url": "https://soundcloud.com/javaswag/e30",
+        "publishedAt": "2022-06-25T15:50:13.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 7500000
+      },
+      {
+        "title": "#29 - Армен Нунупаров - PhD, беспилотные автомобили и медитация",
+        "url": "https://soundcloud.com/javaswag/e29",
+        "publishedAt": "2022-06-04T07:24:21.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 7088000
+      }
+    ],
+    "likes": [
+      {
+        "title": "#36 - Владимир Иванов - мобильная архитектура, развитие в архитектора/стафф инженера",
+        "url": "https://soundcloud.com/javaswag/e36",
+        "publishedAt": "2022-11-05T11:13:33.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#35 - Алексей Рагозин - золотой век распределенных кэшей и профилировщики",
+        "url": "https://soundcloud.com/javaswag/e35",
+        "publishedAt": "2022-10-23T14:15:17.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#34 - Андрей Сундуков - из PHP в Java, чистый код и собеседования",
+        "url": "https://soundcloud.com/javaswag/e34",
+        "publishedAt": "2022-10-08T13:09:16.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "#33 - Алексей Генус - архитектура нео-банка и время",
+        "url": "https://soundcloud.com/javaswag/e33",
+        "publishedAt": "2022-09-03T13:40:30.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      }
+    ],
+    "invokedAt": "2022-11-23T08:06:41.351Z"
+  }
+]
