@@ -1,0 +1,50 @@
+[
+  {
+    "urn": 656797185,
+    "username": "javaswag",
+    "name": "javaswag",
+    "verified": false,
+    "createdAt": "2019-06-23T16:51:02.000Z",
+    "avatarURL": "https://i1.sndcdn.com/avatars-hQenmJZyBXHdE1r3-4rqAqg-large.jpg",
+    "profile": "https://soundcloud.com/javaswag",
+    "bannerURL": "https://i1.sndcdn.com/visuals-000656797185-Is0cGo-original.jpg",
+    "followers": 324,
+    "following": 4,
+    "likesCount": 4,
+    "tracksCount": 1,
+    "tracks": [
+      {
+        "title": "#40 - Никита Прокопов - разочарование в Java, простота Clojure и опенсорс проекты",
+        "url": "https://soundcloud.com/javaswag/e40",
+        "publishedAt": "2022-12-18T14:59:49.000Z",
+        "genre": "Technology",
+        "author": "javaswag",
+        "duration": 5772000
+      }
+    ],
+    "likes": [
+      {
+        "title": "#40 - Никита Прокопов - разочарование в Java, простота Clojure и опенсорс проекты",
+        "url": "https://soundcloud.com/javaswag/e40",
+        "publishedAt": "2022-12-18T14:59:49.000Z",
+        "genre": "Technology",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "",
+        "url": "https://soundcloud.comundefined",
+        "publishedAt": null,
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      }
+    ],
+    "invokedAt": "2023-03-30T08:07:22.440Z"
+  }
+]
