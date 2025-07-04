@@ -1,0 +1,48 @@
+[
+  {
+    "urn": 656797185,
+    "username": "javaswag",
+    "name": "javaswag",
+    "verified": false,
+    "createdAt": "2019-06-23T16:51:02.000Z",
+    "avatarURL": "https://i1.sndcdn.com/avatars-hQenmJZyBXHdE1r3-4rqAqg-large.jpg",
+    "profile": "https://soundcloud.com/javaswag",
+    "bannerURL": "https://i1.sndcdn.com/visuals-000656797185-Is0cGo-original.jpg",
+    "followers": 322,
+    "following": 4,
+    "likesCount": 2,
+    "tracksCount": 1,
+    "tracks": [
+      {
+        "title": "#Javaswag переехал",
+        "url": "https://soundcloud.com/javaswag/javaswag-pereekhal",
+        "publishedAt": "2023-05-30T22:43:37.000Z",
+        "author": "javaswag",
+        "duration": 56000
+      }
+    ],
+    "likes": [
+      {
+        "title": "#Javaswag переехал",
+        "url": "https://soundcloud.com/javaswag/javaswag-pereekhal",
+        "publishedAt": "2023-05-30T22:43:37.000Z",
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      },
+      {
+        "title": "",
+        "url": "https://soundcloud.comundefined",
+        "publishedAt": null,
+        "author": {
+          "name": "javaswag",
+          "username": "javaswag",
+          "profile": "https://soundcloud.com/javaswag"
+        }
+      }
+    ],
+    "invokedAt": "2025-07-04T08:10:15.422Z"
+  }
+]
